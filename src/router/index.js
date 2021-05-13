@@ -31,6 +31,11 @@ const routes = [
         ]
       }
     ]
+  },
+  {
+    path: '/audio',
+    name: 'Audio',
+    component: () => import('../views/Audio.vue'),
   }
 ]
 

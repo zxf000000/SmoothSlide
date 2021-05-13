@@ -10,6 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "create-keyframe-animation": "^0.1.0",
+    "swiper": "^6.4.10",
+    "three": "^0.126.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
