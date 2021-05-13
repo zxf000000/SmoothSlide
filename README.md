@@ -1,5 +1,7 @@
 # vue-demos
 
+Smooth slide with ``requestAnimation()``
+
 ## Project setup
 ```
 npm install
